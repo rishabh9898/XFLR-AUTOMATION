@@ -59,6 +59,6 @@ This is a python based automation script which completely automates all of the f
   * The code has been divided into 5 individual modules. Run modules one-by-one depending on the task you wish to perform.
   
  ## Contact
- If facing any difficulties using the script or to suggest improvements feel free to contact at: [instagram](https://www.instagram.com/zxxshan)
+ If facing any difficulties using the script or to suggest improvements feel free to contact at: https://www.linkedin.com/in/ruhelarishabh/ 
   
   
